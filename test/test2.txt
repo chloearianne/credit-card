@@ -1,0 +1,20 @@
+Add Sarah 4024007166637172 $100
+Add Neil 0 $1000
+Add Rainna 1098471290234234384712930847 $3000
+Add Chloe 5441210744725079 $2000
+Charge Neil $500
+Charge Chloe $800
+Charge Rainna $7
+Credit Chloe $101
+Charge Sarah $200
+
+Credit Chloe $5
+Add Dan 544121074472502349082390479 $2000
+Charge Sarah $100
+Credit Sarah $5
+
+Charge Sarah $10
+Charge Sarah $4
+Credit Dan $50
+Charge Chloe $1000
+Charge Rainna $45489

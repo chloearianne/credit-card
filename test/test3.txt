@@ -1,0 +1,19 @@
+Add Macaroni 379109673531333 $400
+Credit Macaroni $500
+Add Cheese 5462048599769402 $600
+Charge Cheese $900
+Charge Macaroni $800
+Credit Cheese $200
+Credit Cheese $100
+Credit Macaroni $300
+Charge PoachedEgg $50
+Add Bacon 5020778631119019 $0
+Add Hollandaise 8920384902384092378409237402975235 $400
+Charge Hollandaise 40
+Credit Hollandaise 30
+Charge Cheese $40
+Add Bacon 6388527920511525 $50
+Charge Bacon $5
+Charge Cheese $20
+Credit Bacon $40
+Credit PoachedEgg $50
